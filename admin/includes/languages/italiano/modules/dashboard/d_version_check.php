@@ -19,3 +19,4 @@ const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CURRENT = 'Version Check on %s';
 
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_UPDATE_AVAILABLE = '<i class="fas fa-exclamation-circle"></i> E\' disponibile un aggiornamento di  CE Phoenix Online Merchant!';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_IS_LATEST = '<i class="fas fa-thumbs-up"></i> Stai utilizzando l\'ultima versione di CE Phoenix!';
+?>

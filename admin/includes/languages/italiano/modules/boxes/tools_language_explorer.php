@@ -10,4 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TOOLS_DEFINE_LANGUAGE = 'Traduci Testi';
+  const MODULES_ADMIN_MENU_TOOLS_LANGUAGE_EXPLORER = 'Esplora Lingua';
+?>

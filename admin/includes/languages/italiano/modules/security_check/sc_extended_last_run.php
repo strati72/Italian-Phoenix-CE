@@ -11,5 +11,5 @@
 */
 
 const MODULE_SECURITY_CHECK_EXTENDED_LAST_RUN_OLD = <<<'EOT'
-E i\'stato più di 30 giorni da quando i controlli di sicurezza estesi sono stati eseguite. Si prega di eseguire nuovamente i controlli di sicurezza estesa in Strumenti -&gt; Controlli di sicurezza.
+Sono trascorsi più di 30 giorni da quando i controlli di sicurezza estesi sono stati eseguite. Si prega di eseguire nuovamente i controlli di sicurezza estesa in Strumenti -&gt; Controlli di sicurezza.
 EOT;

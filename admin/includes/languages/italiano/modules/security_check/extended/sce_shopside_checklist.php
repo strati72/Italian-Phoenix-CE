@@ -12,3 +12,4 @@
 
 const MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_TITLE = 'Checklist Utente';
 const MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_MESSAGE = 'Guarda online <a target="_blank" rel="noopener" href="https://github.com/CE-PhoenixCart/PhoenixCart#user-checklist"><u>Checklist Utente</u></a> per un elenco di base delle attività da eseguire.';
+?>

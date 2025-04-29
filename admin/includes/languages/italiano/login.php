@@ -15,7 +15,7 @@ const HEADING_TITLE = '<i class="fa fa-lock"></i> Login amministrazione';
 const TEXT_USERNAME = 'Username';
 const TEXT_PASSWORD = 'Password';
 
-const TEXT_CREATE_FIRST_ADMINISTRATOR = '<div class="card-body"><div class="alert alert-danger card-text">Non esistono amministratori. Compila i campi seguenti per creare il primo amministratore. (Al termine della procedura sarà; necessario rieffettuare il login)</strong></div></div>';
+const TEXT_CREATE_FIRST_ADMINISTRATOR = "Non esistono amministratori. Compila i campi seguenti per creare il primo amministratore.br><strong>Al termine della procedura sarà necessario rieffettuare il login</strong>";
 
 const ERROR_INVALID_ADMINISTRATOR = '<strong>Error:</strong> Tentativo di accesso invalido.';
 

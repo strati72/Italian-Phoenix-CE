@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_CATALOG_TESTIMONIALS = 'Testimonials';
+  const MODULES_ADMIN_MENU_CATALOG_TESTIMONIALS = 'Referenze';

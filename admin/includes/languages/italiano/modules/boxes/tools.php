@@ -10,4 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_TOOLS = '<i data-content="Tools" data-toggle="popover" data-placement="left" class="fas fa-tools fa-fw mr-1"></i><span class="d-inline d-md-none">Strumenti</span>';
+  const BOX_HEADING_TOOLS = '<i title="Tools" class="fas fa-tools fa-fw me-1"></i><span title="Tools" class="d-xl-none">Strumenti</span>';
+  ?>

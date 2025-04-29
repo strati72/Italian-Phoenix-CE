@@ -11,6 +11,6 @@
 */
 
 const MODULE_ADMIN_DASHBOARD_CUSTOMERS_TITLE = 'Clienti';
-const MODULE_ADMIN_DASHBOARD_CUSTOMERS_DESCRIPTION = 'SMostra i Clienti pi&ugrave; recenti';
+const MODULE_ADMIN_DASHBOARD_CUSTOMERS_DESCRIPTION = 'Mostra i Clienti pi&ugrave; recenti';
 
 const MODULE_ADMIN_DASHBOARD_CUSTOMERS_DATE = 'Data';

@@ -11,3 +11,4 @@
 */
 
 const TEXT_ALL_MODULES = '-- Tutti i Moduli --';
+?>
