@@ -1,11 +1,12 @@
 <?php
 /*
-  $Id: info_shopping_cart.php,v 1.4 2002/11/19 01:48:08 dgw_ Exp $
+  $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2002 osCommerce 
+  Copyright (c) 2021 Phoenix Cart
+
 
   Released under the GNU General Public License 
 */

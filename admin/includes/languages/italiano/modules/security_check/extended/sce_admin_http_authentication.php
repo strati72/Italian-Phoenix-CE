@@ -12,5 +12,5 @@
 
 const MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_TITLE = 'Autenticazione HTTP Admin';
 const MODULE_SECURITY_CHECK_EXTENDED_ADMIN_HTTP_AUTHENTICATION_ERROR = <<<'EOT'
-Autenticazione HTTP non è stato impostato per lo strumento Amministrazione osCommerce - si prega di impostare questa funzione nella configurazione del server Web per proteggere ulteriormente lo strumento di amministrazione da accessi non autorizzati.
+Autenticazione HTTP non è stato impostato per lo strumento Amministrazione CE Phoenix - si prega di impostare questa funzione nella configurazione del server Web per proteggere ulteriormente lo strumento di amministrazione da accessi non autorizzati.
 EOT;

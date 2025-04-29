@@ -1,11 +1,11 @@
 <?php
 /*
-  $Id: ot_total.php,v 1.1 2002/04/03 23:09:49 hpdl Exp $
+  $Id
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2002 osCommerce 
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License 
 */
