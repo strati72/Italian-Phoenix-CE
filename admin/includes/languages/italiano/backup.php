@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2022 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -53,4 +53,4 @@ const SUCCESS_BACKUP_DELETED =  '<strong>Operazione riuscita:</strong> Il File d
 const TEXT_INFO_BACKUP_SIZE ='%s MB';
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Database_Backup';
-?>
+

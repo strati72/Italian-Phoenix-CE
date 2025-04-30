@@ -27,4 +27,4 @@ const EMAIL_PASSWORD_RESET_BODY = 'Una nuova password è stata richiesta per il 
 const ERROR_ACTION_RECORDER = 'Errore: Un link per reimpostare la password è già stata inviata. Riprova fra %s minuti.';
 
 const IMAGE_BUTTON_RESET_PASSWORD = 'Reimposta la Password';
-?>
+

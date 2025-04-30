@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE', 'Riga tabella cliccabile con jQuery');
-  define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION', 'Add Riga tabella cliccabile jQuery nelle pagine specificate');
-?>
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE = 'Riga tabella cliccabile con jQuery';
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION = 'Aggiungi Riga tabella cliccabile jQuery nelle pagine specificate';
+

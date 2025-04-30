@@ -11,5 +11,4 @@
 */
 
 const NAVBAR_TITLE = 'Accedi';
- 
-?>
+

@@ -12,4 +12,4 @@
 
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_TITLE = 'Controllo Sicurezza';
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_DESCRIPTION = 'Avvia controllo sicurezza';
-const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = 'Questa installazione &egrave; stata correttamente configurata per  CE Phoenix!';
+const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = 'Questa installazione &egrave; stata correttamente configurata per CE Phoenix!';

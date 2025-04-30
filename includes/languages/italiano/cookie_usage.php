@@ -28,4 +28,3 @@ const BOX_INFORMATION = <<<'EOT'
 Il supporto Cookies deve essere abilitato per comprare online su questo negozio per to garantire la privacy e la sicurezza nella visita sul sito.<br><br>
 Abilitando il supporto ai cookies sul tuo browser potrà avvenire la comunicazione tra il nostro sito e il tuo computer, garantenzo la vostra e la nostra privacy e sicurezza, e un sicuro scambio di informazioni.
 EOT;
-?>

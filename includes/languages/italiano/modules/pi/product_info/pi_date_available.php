@@ -14,4 +14,3 @@
   const PI_DATE_AVAILABLE_DESCRIPTION = 'Visualizza la data disponibilità (se impostata) nella pagina delle informazioni del prodotto.';
 
   const PI_DATE_AVAILABLE_TEXT        = 'Disponibile dal:<span class="badge badge-primary badge-pill text-bg-info">%s</span>';
-?>

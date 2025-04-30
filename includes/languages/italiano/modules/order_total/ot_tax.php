@@ -13,4 +13,3 @@
 
   const MODULE_ORDER_TOTAL_TAX_TITLE = 'Tassa';
   const MODULE_ORDER_TOTAL_TAX_DESCRIPTION = 'Tassa per l\'ordine';
-?>

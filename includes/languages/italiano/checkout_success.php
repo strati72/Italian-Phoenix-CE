@@ -14,4 +14,3 @@ const NAVBAR_TITLE_1 = 'Cassa';
 const NAVBAR_TITLE_2 = 'Completato';
 
 const TABLE_HEADING_COMMENTS = 'Inserisci un commento per  l\'ordine processato'; 
-?>

@@ -17,4 +17,3 @@ const TEXT_MANUFACTURER = 'Produttore:';
 const TEXT_PRICE = 'Prezzo:';
 
 const TEXT_NO_PRODUCTS = 'Non sono presenti prodotti da mostrare.';
-?>

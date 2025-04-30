@@ -12,4 +12,3 @@
 
 const NAVBAR_TITLE_1 = 'Crea il tuo profilo';
 const NAVBAR_TITLE_2 = 'Completato';
-?>

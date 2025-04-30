@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -36,3 +36,5 @@ const ENTRY_TOTAL = 'Totale:';
 const ENTRY_INVOICE = 'Fattura';
 const ENTRY_INVOICE_NUMBER = 'Ordine ID: %s';
 const ENTRY_INVOICE_DATE = 'Data Ordine: %s';
+
+const ENTRY_INVOICE_TAX_ID = 'Tassa ID: %s';

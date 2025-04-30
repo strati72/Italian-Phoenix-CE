@@ -11,4 +11,3 @@
 */
 
   const BOX_HEADING_LOCALIZATION = '<i title="Localization" class="fas fa-language fa-fw me-1"></i><span title="Localization" class="d-xl-none">Localizzazione</span>';
-  ?>

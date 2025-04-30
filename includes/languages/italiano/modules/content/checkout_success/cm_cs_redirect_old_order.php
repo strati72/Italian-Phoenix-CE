@@ -11,6 +11,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_TITLE', 'Reindirizzare Vecchio Ordine');
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_DESCRIPTION', 'Reindirizzare il cliente quando un vecchio ordine sta osservando.');
-?>
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_TITLE = 'Reindirizzare Vecchio Ordine';
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_DESCRIPTION = 'Reindirizzare il cliente quando un vecchio ordine sta osservando.';
+

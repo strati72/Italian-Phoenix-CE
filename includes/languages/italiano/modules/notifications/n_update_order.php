@@ -28,4 +28,3 @@ Ti preghiamo di rispondere a questa mail se hai domande al riguardo
 
 EOT;
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_COMMENTS_UPDATE = 'I commenti per il tuo ordine sono' . "\n\n%s\n\n";
-?>

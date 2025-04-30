@@ -22,4 +22,3 @@ const TEXT_ENTER_SHIPPING_INFORMATION = 'Questo è l\' unico metodo di spedizion
 const ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS = 'La spedizione non è attualmente disponibile per l\'indirizzo di spedizione scelto. Si prega di selezionare o creare un nuovo indirizzo di spedizione da utilizzare con il vostro acquisto.';
 
 const BUTTON_CONTINUE_CHECKOUT_PROCEDURE = 'Continua l\'Acquisto';
-?>

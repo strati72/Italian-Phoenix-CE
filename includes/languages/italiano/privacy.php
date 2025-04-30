@@ -16,4 +16,3 @@ const NAVBAR_TITLE = 'Informativa sulla Privacy';
 Define the Title and Text of this page using the Info Pages Manager.
 Admin > Tools > Info Pages
 */
-?>

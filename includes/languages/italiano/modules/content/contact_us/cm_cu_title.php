@@ -14,4 +14,3 @@
   const MODULE_CONTENT_CU_TITLE_DESCRIPTION = 'Mostra il titolo della pagina';
   
   const MODULE_CONTENT_CU_TITLE_PUBLIC_TITLE = 'Contattaci';
-?>

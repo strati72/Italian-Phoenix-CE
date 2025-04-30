@@ -16,4 +16,3 @@ const TEXT_MAIN = <<<'EOT'
 Disconnessione effettuata con successo. Ora puoi lasciare il tuo computer.<br><br>
 Il tuo carrello acquisti è stato salvato, ritroverai i prodotti contenuti in esso la prossima volta che accederai al tuo account.
 EOT;
-?>

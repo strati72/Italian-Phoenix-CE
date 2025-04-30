@@ -31,4 +31,3 @@ EOT;
   const MODULE_PAYMENT_2CHECKOUT_TEXT_ERROR_MESSAGE = 'Si è verificato un errore nell\'elaborazione della sua carta di credito. Si prega di riprovare.';
   const MODULE_PAYMENT_2CHECKOUT_TEXT_WARNING_DEMO_MODE = 'Nella revisione: Transazione eseguita in modalità demo.';
   const MODULE_PAYMENT_2CHECKOUT_TEXT_WARNING_TRANSACTION_ORDER = 'Nella revisione: Il totale della transazione non corrisponde al totale dell\'ordine.';
-?>

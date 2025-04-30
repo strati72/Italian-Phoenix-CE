@@ -14,4 +14,3 @@
 
   const MODULE_ORDER_TOTAL_SUBTOTAL_TITLE = 'Sub-Totale';
   const MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION = 'Sub-Totale Ordine';
-?>

@@ -11,4 +11,3 @@
 */
 
   const MODULES_ADMIN_MENU_CATALOG_PRODUCTS = 'Categorie/Prodotti';
-?>

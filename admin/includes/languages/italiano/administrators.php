@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart - Sergio Strati 2025
+  Copyright (c) 2021 Phoenix Cart
 	
   Released under the GNU General Public License
 */
@@ -28,7 +28,7 @@ const TEXT_HTPASSWRD_NA_IIS = 'N/A';
 
 const ERROR_ADMINISTRATOR_EXISTS = '<strong>Errore:</strong> L\'amministratore è già.';
 
-const HTPASSWD_INFO =<<<'EOT'
+const HTPASSWD_INFO = <<<'EOT'
 <strong>Aggiungi protezione con htaccess/htpasswd</strong>
 <p>In questo CE Phoenix non sono state impostate le chiavi di sicurezza htaccess/htpasswd per i pannelli di amministrazione.</p>
 <p>Impostando il livello di sicurezza htaccess/htpasswd verra\' automaticamente memorizzato il nome e la password dell\amministratore in un file htpasswd quando aggiornerai il record password dell\'amministratore.</p>
@@ -43,7 +43,7 @@ const HTPASSWD_SECURED = <<<'EOT'
 <strong>Protezione aggiuntiva con htaccess/htpasswd</strong>
 <p>Si consiglia di installare una Protezione aggiuntiva con htaccess/htpasswd means. per questi pannelli di amministrazione di CE Phoenix</p>
 EOT;
-const HTPASSWD_PERMISSIONS =  <<<'EOT'
+const HTPASSWD_PERMISSIONS = <<<'EOT'
 <strong>Protezione aggiuntiva con htaccess/htpasswd</strong>
 <p>Lo strumento on line per installare una protezione aggiuntiva tramite htaccess/htpasswd means.</p>
 <p>richiede che sia scrivibile il file  htaccess/htpasswd security layer:</p>

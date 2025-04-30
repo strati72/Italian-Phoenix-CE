@@ -26,4 +26,3 @@ const BOX_INFORMATION = <<<'EOT'
 Noi convalidiamo la SSL Session ID automaticamente generata dal tuo browser su ognuna della pagine sicure richieste su questo server.<br><br>
 La convalida assicura che sei proprio tu che stai navigando con il tuo account e non qualcun\'altro da un\'altro computer.
 EOT;
-?>

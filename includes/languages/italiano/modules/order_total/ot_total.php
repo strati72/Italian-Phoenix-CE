@@ -12,4 +12,3 @@
 
   const MODULE_ORDER_TOTAL_TOTAL_TITLE = 'Totale';
   const MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION = 'Totale Ordine';
-?>

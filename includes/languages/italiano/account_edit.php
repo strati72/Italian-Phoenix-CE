@@ -17,4 +17,3 @@ const NAVBAR_TITLE_2 = 'Modifica account';
 const HEADING_TITLE = 'Informazioni sul mio account';
 
 const SUCCESS_ACCOUNT_UPDATED = 'Il tuo account è stato modificato con successo.';
-?>

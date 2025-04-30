@@ -17,7 +17,7 @@ const TABLE_HEADING_CUSTOMERS = 'Clienti';
 const TABLE_HEADING_CUSTOMERS_ID = 'ID';
 const TABLE_HEADING_TOTAL_PURCHASED = 'Valore acquistato dei prodotti';
 
-const TABLE_HEADING_ACTION = 'Azione';
+const TABLE_HEADING_ACTION = 'Interazioni';
 
 const CSV_HEADERS = ['Customer ID', 'Order Number', 'Date Purchased', 'Full Order Value', 'Status'];
 

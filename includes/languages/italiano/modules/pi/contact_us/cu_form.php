@@ -16,4 +16,4 @@
   const FORM_CONTACT_US = '';
   
   const FORM_CONTACT_US_SUCCESS = '<div class="alert alert-success"><b>Grazie.</b>  La tua richiesta è stata inviata al proprietario del negozio.<br><br>Se hai bisogno di inviarci un\'altra e-mail, fai<a class="alert-link" href="%s">premi qui</a>.</div>';
- ?> 
+ 

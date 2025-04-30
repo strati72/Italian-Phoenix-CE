@@ -11,4 +11,3 @@
 */
 
   const BOX_HEADING_MODULES = '<i title="Modules" class="fas fa-folder-open fa-fw me-1"></i><span title="Modules" class="d-xl-none">Moduli</span>';
-  ?>

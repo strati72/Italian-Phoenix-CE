@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_LOCALIZATION_LANGUAGES = 'Lingue';
+  const MODULES_ADMIN_MENU_LOCALIZATION_LANGUAGES = 'Linguaggi';

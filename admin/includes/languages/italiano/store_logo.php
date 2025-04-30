@@ -12,7 +12,7 @@
 
 const HEADING_TITLE = 'Logo negozio';
 
-const TEXT_EXISTING_LOGO = '<b>Questo è il logo del tuo negozio esistente.</b><br><br>Viene utilizzato sia nel tuo negozio che nella tua area amministrativa (ad esempio sulla fattura e sulla bolla di accompagnamento)';
+const TEXT_EXISTING_STORE_LOGO = '<b>Questo è il logo del tuo negozio esistente.</b><br><br>Viene utilizzato sia nel tuo negozio che nella tua area amministrativa (ad esempio sulla fattura e sulla bolla di accompagnamento)';
 const TEXT_EXISTING_MINI_LOGO = '<b>Questo è il Mini Logo.</b><br><br>Viene utilizzato nella Navbar del tuo Negozio (A seconda dei moduli installati).';
 const TEXT_EXISTING_FAVICON_LOGO = '<b>Questa è la Favicon.</b><br><br>È utilizzata quando un utente salva il sito nei preferiti.';
 

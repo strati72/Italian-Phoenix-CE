@@ -40,4 +40,3 @@ const TABLE_HEADING_DOWNLOAD_FILE = 'File';
 const TABLE_HEADING_DOWNLOAD_DATE = 'Scadenza Link: ';
 const TABLE_HEADING_DOWNLOAD_COUNT = ' Downloads rimasti.';
 const HEADING_DOWNLOAD = 'Download links';
-?>

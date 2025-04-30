@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TOOLS_BACKUP = 'Salvataggio Database';
+  const MODULES_ADMIN_MENU_TOOLS_BACKUP = 'Backup Database';

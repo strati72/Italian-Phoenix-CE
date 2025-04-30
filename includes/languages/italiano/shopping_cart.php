@@ -11,4 +11,4 @@
 */
 
 const NAVBAR_TITLE = 'Contenuto carrello';
- ?>
+ 

@@ -15,4 +15,3 @@ const NAVBAR_TITLE = 'Crea un Profilo';
 const HEADING_TITLE = 'Informazioni Profilo';
 
 const TEXT_ORIGIN_LOGIN = '<span class="text-danger"><strong>NOTA:</strong></span> Se  hai già un account, vai alla pagina <a class="alert-link" href="%s"><u>Accedi</u></a>.';
-?>

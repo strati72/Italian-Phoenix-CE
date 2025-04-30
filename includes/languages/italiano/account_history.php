@@ -29,4 +29,3 @@ const BUTTON_VIEW_ORDER = '<i title="View this Order" class="fas fa-eye"></i>';
 const TEXT_NO_PURCHASES = 'Nessun acquisto effettuato.';
 
 const TEXT_DISPLAY_NUMBER_OF_ORDERS = 'Mostra <strong>%d</strong> fino <strong>%d</strong> (di <strong>%d</strong> ordini)';
-?>

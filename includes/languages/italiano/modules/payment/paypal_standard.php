@@ -37,5 +37,3 @@ const MODULE_PAYMENT_PAYPAL_STANDARD_DIALOG_CONNECTION_TIME = 'Tempo di connessi
 const MODULE_PAYMENT_PAYPAL_STANDARD_DIALOG_CONNECTION_SUCCESS = 'Completato con successo!';
 const MODULE_PAYMENT_PAYPAL_STANDARD_DIALOG_CONNECTION_FAILED = 'Errore di connessione: controlla le impostazioni e riprova.';
 const MODULE_PAYMENT_PAYPAL_STANDARD_DIALOG_CONNECTION_ERROR = 'Errore. Ricarica la pagina, controlla le impostazioni e riprova.';
-
-?>

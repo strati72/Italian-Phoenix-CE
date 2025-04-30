@@ -16,4 +16,3 @@
 
   const FREE_SHIPPING_TITLE = 'Spedizione Gratuita';
   const FREE_SHIPPING_DESCRIPTION = 'Spedizione Gratuita per ordini superiori a %s';
-?>

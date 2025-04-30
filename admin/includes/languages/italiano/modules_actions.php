@@ -10,10 +10,10 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE          = 'Azioni';
+const HEADING_TITLE          = 'Interazioni';
 
 const TABLE_HEADING_FILE     = 'File';
-const TABLE_HEADING_ACTION   = 'Azione';
+const TABLE_HEADING_ACTION   = 'Interazione';
 const TABLE_HEADING_CLASS    = 'Classe';
 const TABLE_HEADING_METHOD   = 'Metodo';
 

@@ -32,4 +32,4 @@ Per aggiungere prodotti alla tua lista di notifiche, clicca sul link di notifica
 EOT;
 
 const SUCCESS_NOTIFICATIONS_UPDATED = 'La tua lista di notifiche prodotti è stata aggiornata con successo.';
-?>
+

@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -38,4 +38,5 @@ const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   La pagina dei clienti richiede  'sortable_name', 'name', 'email_address', 'country_id', e 'id' moduli dati cliente da installare.  Manca:
 EOT;
 
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';

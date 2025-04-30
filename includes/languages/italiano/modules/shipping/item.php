@@ -13,4 +13,3 @@
 const MODULE_SHIPPING_ITEM_TEXT_TITLE = 'Per Articolo';
 const MODULE_SHIPPING_ITEM_TEXT_DESCRIPTION = 'Per Articolo';
 const MODULE_SHIPPING_ITEM_TEXT_WAY = 'La via Migliore';
-?>

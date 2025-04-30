@@ -14,4 +14,3 @@ const NAVBAR_TITLE_1 = 'Il mio conto';
 const NAVBAR_TITLE_2 = 'Dati Privacy';
 
 const HEADING_TITLE = 'Cosa sappiamo di te...';
-?>

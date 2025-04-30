@@ -58,4 +58,3 @@ const ERROR_PRICE_FROM_MUST_BE_NUM = 'Il campo \"Dal prezzo\" deve essere un num
 const ERROR_PRICE_TO_MUST_BE_NUM = 'Il campo \"Al prezzo\"  deve essere un numero.';
 const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = 'Il campo \"Al prezzo\" deve essere maggiore o uguale al campo \"Dal prezzo\".';
 const ERROR_INVALID_KEYWORDS = 'Parole chiave non valide.';
-?>

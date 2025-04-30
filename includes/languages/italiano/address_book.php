@@ -25,4 +25,3 @@ const ADDRESS_BOOK_TITLE = 'Elenco degli indirizzi';
 const PRIMARY_ADDRESS = '(indirizzo primario)';
 
 const TEXT_MAXIMUM_ENTRIES = '<font color="#ff0000"><b>NOTA:</b></font> E\' consentito un massimo di %s indirizzi.';
-?>

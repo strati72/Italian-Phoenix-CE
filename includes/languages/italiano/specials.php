@@ -18,4 +18,3 @@ const TEXT_NO_PRODUCTS = 'Non ci sono offerte speciali disponibili al momento.';
 // seo
 const META_SEO_TITLE = 'Special Offers Page';
 const META_SEO_DESCRIPTION = 'Specials Description';
-?>

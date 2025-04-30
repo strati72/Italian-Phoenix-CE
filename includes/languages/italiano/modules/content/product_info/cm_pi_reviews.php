@@ -15,4 +15,3 @@
   
   const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TEXT_TITLE = 'Cosa dicono i nostri clienti...';
   const MODULE_CONTENT_PRODUCT_INFO_REVIEWS_TEXT_RATED = 'Voto %1$s da <cite title="%2$s">%2$s</cite>';
-?>

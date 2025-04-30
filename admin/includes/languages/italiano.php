@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -84,58 +84,58 @@ const ICON_FILE = 'Documento';
 const ICON_FILE_DOWNLOAD = 'Scarica';
 
 // constants for use in pagination
-const TEXT_RESULT_PAGE =  'Pagina %s di %d';
-const TEXT_DISPLAY_NUMBER_OF_COUNTRIES =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> nazioni)';
+const TEXT_RESULT_PAGE = 'Pagina %s di %d';
+const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> nazioni)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Visualizza <strong>%d</strong> per <strong>%d</strong> (of <strong>%d</strong> gruppi di dati dei clienti)';
-const TEXT_DISPLAY_NUMBER_OF_CUSTOMERS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> clienti)';
-const TEXT_DISPLAY_NUMBER_OF_CURRENCIES =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> valute)';
-const TEXT_DISPLAY_NUMBER_OF_ENTRIES =  'Visualizzati <strong>%d</strong> di <strong>%d</strong> (of <strong>%d</strong> entries)';
-const TEXT_DISPLAY_NUMBER_OF_LANGUAGES =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> lingue)';
-const TEXT_DISPLAY_NUMBER_OF_MANUFACTURERS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> produttori)';
-const TEXT_DISPLAY_NUMBER_OF_NEWSLETTERS =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> newsletters)';
-const TEXT_DISPLAY_NUMBER_OF_ORDERS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> ordini)';
-const TEXT_DISPLAY_NUMBER_OF_ORDERS_STATUS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> stato ordini)';
-const TEXT_DISPLAY_NUMBER_OF_PRODUCTS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti)';
-const TEXT_DISPLAY_NUMBER_OF_PRODUCTS_EXPECTED =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti in attesa)';
-const TEXT_DISPLAY_NUMBER_OF_REVIEWS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> recensioni prodotto)';
-const TEXT_DISPLAY_NUMBER_OF_SPECIALS =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti in offerta)';
-const TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> tipi di tassa)';
-const TEXT_DISPLAY_NUMBER_OF_TAX_ZONES =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> tasse stat./prov)';
-const TEXT_DISPLAY_NUMBER_OF_TAX_RATES =  'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> aliquote fiscali)';
-const TEXT_DISPLAY_NUMBER_OF_ZONES =  'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> stati/Province)';
+const TEXT_DISPLAY_NUMBER_OF_CUSTOMERS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> clienti)';
+const TEXT_DISPLAY_NUMBER_OF_CURRENCIES = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> valute)';
+const TEXT_DISPLAY_NUMBER_OF_ENTRIES = 'Visualizzati <strong>%d</strong> di <strong>%d</strong> (of <strong>%d</strong> entries)';
+const TEXT_DISPLAY_NUMBER_OF_LANGUAGES = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> lingue)';
+const TEXT_DISPLAY_NUMBER_OF_MANUFACTURERS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> produttori)';
+const TEXT_DISPLAY_NUMBER_OF_NEWSLETTERS = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> newsletters)';
+const TEXT_DISPLAY_NUMBER_OF_ORDERS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> ordini)';
+const TEXT_DISPLAY_NUMBER_OF_ORDERS_STATUS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> stato ordini)';
+const TEXT_DISPLAY_NUMBER_OF_PRODUCTS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti)';
+const TEXT_DISPLAY_NUMBER_OF_PRODUCTS_EXPECTED = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti in attesa)';
+const TEXT_DISPLAY_NUMBER_OF_REVIEWS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> recensioni prodotto)';
+const TEXT_DISPLAY_NUMBER_OF_SPECIALS = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> prodotti in offerta)';
+const TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> tipi di tassa)';
+const TEXT_DISPLAY_NUMBER_OF_TAX_ZONES = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> tasse stat./prov)';
+const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Visualizzate <b>%d</b> su <b>%d</b> (di <b>%d</b> aliquote fiscali)';
+const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Visualizzati <b>%d</b> su <b>%d</b> (di <b>%d</b> stati/Province)';
 
 const SPLIT_PAGES = 'Selezione Pagina';
 
-const TEXT_DEFAULT =  'Predefinito';
-const TEXT_SET_DEFAULT =  'Setta come Predefinito';
+const TEXT_DEFAULT = 'Predefinito';
+const TEXT_SET_DEFAULT = 'Setta come Predefinito';
 
 const TEXT_NONE = '--none--';
 const TEXT_TOP = 'Top';
 const TEXT_ALL = 'Tutti';
 
-const ERROR_DESTINATION_DOES_NOT_EXIST =  'Errore: Destinazione non esistente.';
-const ERROR_DESTINATION_NOT_WRITEABLE =  'Errore: Destinazione non scrivibile.';
-const ERROR_FILE_NOT_SAVED =  'Errore: File caricato non salvato.';
-const ERROR_FILETYPE_NOT_ALLOWED =  'Errore: Tipo di file caricamento non consentito.';
-const SUCCESS_FILE_SAVED_SUCCESSFULLY =  'Successo: File caricato salvato con successo.';
-const WARNING_NO_FILE_UPLOADED =  'Attenzione: Nessuno file caricato.';
+const ERROR_DESTINATION_DOES_NOT_EXIST = 'Errore: Destinazione non esistente.';
+const ERROR_DESTINATION_NOT_WRITEABLE = 'Errore: Destinazione non scrivibile.';
+const ERROR_FILE_NOT_SAVED = 'Errore: File caricato non salvato.';
+const ERROR_FILETYPE_NOT_ALLOWED = 'Errore: Tipo di file caricamento non consentito.';
+const SUCCESS_FILE_SAVED_SUCCESSFULLY = 'Successo: File caricato salvato con successo.';
+const WARNING_NO_FILE_UPLOADED = 'Attenzione: Nessuno file caricato.';
 
 // bootstrap helper
-const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION =  <<<'EOT'
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = <<<'EOT'
 <p>I contenuti in orizzontale possono essere 12 o meno per riga.</p>
 <p>12/12 = 100% width, 6/12 = 50% width, 4/12 = 33% width.</p>
 <p>Il totale delle colonne in ogni riga deve essere uguale a  12 (esempi:  3 sezioni di 4 colonne ciascuno, 1 elemento di 12 colonne e così via).</p>
 EOT;
 
 // seo helper
-const PLACEHOLDER_COMMA_SEPARATION =  'Devono, essere, separati, da, una, virgola';
+const PLACEHOLDER_COMMA_SEPARATION = 'Devono, essere, separati, da, una, virgola';
 
 // message for required inputs
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 const TEXT_IMAGE_NON_EXISTENT = 'IMAGE DOES NOT EXIST';
 
-const STAR_RATING = 'Voto   %s  Stelle';
+const STAR_RATING = 'Voto %s Stelle';
 
 const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Aiuto';
 const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';

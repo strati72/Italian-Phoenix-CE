@@ -11,4 +11,4 @@
 */
 
   const BOX_HEADING_ORDERS = '<i title="Orders" class="fas fa-credit-card fa-fw me-1"></i><span title="Orders" class="d-xl-none">Ordini</span>';
-  ?>
+  

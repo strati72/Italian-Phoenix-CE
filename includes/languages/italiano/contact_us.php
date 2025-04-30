@@ -23,4 +23,3 @@ const ENTRY_ENQUIRY = 'Domanda:';
 const ENTRY_ENQUIRY_TEXT = '';
 
 const ERROR_ACTION_RECORDER = 'Errore: il messaggio è già stato inviato. Riprova fra %s minuti.';
-?>

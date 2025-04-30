@@ -11,4 +11,3 @@
 */
 
   const BOX_HEADING_REPORTS = '<i title="Reports" class="fas fa-chart-bar fa-fw me-1"></i><span title="Reports" class="d-xl-none">Rapporti</span>';
-  ?>

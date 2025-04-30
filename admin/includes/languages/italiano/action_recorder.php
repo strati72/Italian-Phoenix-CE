@@ -19,11 +19,11 @@ const TABLE_HEADING_DATE_ADDED = 'Data';
 const TABLE_HEADING_ACTION = 'Interazioni';
 
 const TEXT_FILTER_SEARCH = 'Cerca:';
-const TEXT_GUEST =  'Ospite';
+const TEXT_GUEST = 'Ospite';
 
 const TEXT_INFO_IDENTIFIER = 'Identificazione:';
 const TEXT_INFO_DATE_ADDED = 'Aggiunto in data:';
 
-const SUCCESS_EXPIRED_ENTRIES =  'Successo: %s le interazioni scadute sono state rimosse.';
+const SUCCESS_EXPIRED_ENTRIES = '<strong>Completato</strong>: %s le interazioni scadute sono state rimosse.';
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Action_Recorder';

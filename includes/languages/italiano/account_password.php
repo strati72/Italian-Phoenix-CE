@@ -19,4 +19,4 @@ const MY_PASSWORD_TITLE = 'Mia Password';
 
 const SUCCESS_PASSWORD_UPDATED = 'La password è stata aggiornata con successo.';
 const ERROR_CURRENT_PASSWORD_NOT_MATCHING = 'La password corrente non corrisponde a quella inserita precedentemente. Riprova.';
-?>
+

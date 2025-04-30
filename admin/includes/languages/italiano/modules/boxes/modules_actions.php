@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_MODULES_ACTIONS = 'Azioni';
+  const MODULES_ADMIN_MENU_MODULES_ACTIONS = 'Interazioni';

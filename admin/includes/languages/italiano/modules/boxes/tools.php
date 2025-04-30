@@ -11,4 +11,4 @@
 */
 
   const BOX_HEADING_TOOLS = '<i title="Tools" class="fas fa-tools fa-fw me-1"></i><span title="Tools" class="d-xl-none">Strumenti</span>';
-  ?>
+  

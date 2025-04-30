@@ -71,6 +71,7 @@ const TEXT_INFO_PAYMENT_METHOD = 'Metodo di Pagamento: %s';
 
 const TEXT_ALL_ORDERS = 'Tutti gli Ordini';
 const TEXT_NO_ORDER_HISTORY = 'Nessuna Cronologia Ordini disponibile';
+const TEXT_NO_DELIVERY_ADDRESS = 'Nessun indirizzo di consegna';
 
 const ERROR_ORDER_DOES_NOT_EXIST = '<strong>Errore:</strong> Ordine <strong>%s</strong> inesistente.';
 const SUCCESS_ORDER_UPDATED = '<strong>Completato:</strong> Ordine aggiornato con successo.';

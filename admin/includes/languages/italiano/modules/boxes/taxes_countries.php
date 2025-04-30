@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TAXES_COUNTRIES = 'Paesi';
+  const MODULES_ADMIN_MENU_TAXES_COUNTRIES = 'Nazioni';
