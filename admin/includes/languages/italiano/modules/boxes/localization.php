@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_LOCALIZATION = '<i title="Localization" class="fas fa-language fa-fw me-1"></i><span title="Localization" class="d-xl-none">Localizzazione</span>';
+  const BOX_HEADING_LOCALIZATION = '<i title="Localizzazione" class="fas fa-language fa-fw me-1"></i><span title="Localizzazione" class="d-xl-none">Localizzazione</span>';

@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_ORDERS = '<i title="Orders" class="fas fa-credit-card fa-fw me-1"></i><span title="Orders" class="d-xl-none">Ordini</span>';
+  const BOX_HEADING_ORDERS = '<i title="Ordini" class="fas fa-credit-card fa-fw me-1"></i><span title="Ordini" class="d-xl-none">Ordini</span>';
   

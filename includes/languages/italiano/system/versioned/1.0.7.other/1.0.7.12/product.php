@@ -12,5 +12,5 @@
 
 const IS_PRODUCT_SHOW_PRICE = '<span class="productPrice">%s</span>';
 const IS_PRODUCT_SHOW_PRICE_SPECIAL = '<span class="sr-only visually-hidden">prezzo originario</span><s><span class="specialPrice">%s</span></s> <span class="sr-only visually-hidden">prezzo di vendita</span><span class="text-danger productPrice">%s</span>';
-const IS_PRODUCT_BUTTON_BUY = '<i class="fas fa-shopping-cart" title="Add To Cart"></i>';
-const IS_PRODUCT_BUTTON_VIEW = '<i class="fas fa-eye" title="View Product"></i>';
+const IS_PRODUCT_BUTTON_BUY = '<i class="fas fa-shopping-cart" title="Aggiungi al carrello"></i>';
+const IS_PRODUCT_BUTTON_VIEW = '<i class="fas fa-eye" title="Vedi articolo"></i>';

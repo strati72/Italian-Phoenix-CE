@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_LOCATION_AND_TAXES = '<i title="Locations & Taxes" class="fas fa-comments-dollar fa-fw me-1"></i><span title="Locations & Taxes" class="d-xl-none">Luoghi e Tasse</span>';
+  const BOX_HEADING_LOCATION_AND_TAXES = '<i title="Luoghi e Tasse" class="fas fa-comments-dollar fa-fw me-1"></i><span title="Luoghi e Tasse" class="d-xl-none">Luoghi e Tasse</span>';

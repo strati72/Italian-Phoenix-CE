@@ -29,6 +29,7 @@
   const MODULE_CONTENT_SC_PRODUCT_LISTING_HEADING_QUANTITY = 'Qtà';
   const MODULE_CONTENT_SC_PRODUCT_LISTING_HEADING_PRICE = 'Prezzo';
 
-  const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_UPDATE = '<i title="Update" class="fas fa-sync fa-fw"></i>';
-  const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_REMOVE = '<i title="Remove" class="text-danger fas fa-trash fa-fw"></i>';
+  const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_UPDATE = '<i title="Aggiorna
+  " class="fas fa-sync fa-fw"></i>';
+  const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_REMOVE = '<i title="Rimuovi" class="text-danger fas fa-trash fa-fw"></i>';
   const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_IN_STOCK = '<i class="fas fa-check fa-2x text-success"></i>';

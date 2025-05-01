@@ -17,6 +17,7 @@
   const MODULE_CONTENT_GDPR_ORDERS_NUM_ORDERS = 'Hai effettuato<br><span class="h1">%s</span><br> ordine/i';
 
   const MODULE_CONTENT_GDPR_ORDERS_EACH = '%1$s <small>[%2$s]</small>';
-  const MODULE_CONTENT_GDPR_ORDERS_EACH_VIEW = '<i title="View Order" class="fas fa-eye"></i>';
+  const MODULE_CONTENT_GDPR_ORDERS_EACH_VIEW = '<i title="Vedi ordine
+  " class="fas fa-eye"></i>';
 
   const MODULE_CONTENT_GDPR_ORDERS_ALL_VIEW = '%s altri ordini... click per vederli tutti';

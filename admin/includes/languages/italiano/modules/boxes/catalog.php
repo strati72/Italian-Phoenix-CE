@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_CATALOG = '<i title="Catalog" class="fas fa-cart-plus fa-fw me-1"></i><span title="Catalog" class="d-xl-none">Catalogo</span>';
+  const BOX_HEADING_CATALOG = '<i title="Catalogo" class="fas fa-cart-plus fa-fw me-1"></i><span title="Catalogo" class="d-xl-none">Catalogo</span>';
   

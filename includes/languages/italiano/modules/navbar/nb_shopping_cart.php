@@ -17,7 +17,7 @@
   // see new language const NAVBAR_ICON_CART_CONTENTS in /includes/languages/english.php
   const MODULE_NAVBAR_SHOPPING_CART_CONTENTS = <<<'SC'
   <span class="position-relative">
-    <i title="Shopping Cart: %1$s item(s) in your cart" class="fas fa-shopping-cart fa-fw fa-xl"></i>
+    <i title="Carrello: %1$s articolo/i nel tuo carrello" class="fas fa-shopping-cart fa-fw fa-xl"></i>
     <span class="d-none d-sm-inline position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info border">
 <span class="cart-count">%1$s</span>
     </span>

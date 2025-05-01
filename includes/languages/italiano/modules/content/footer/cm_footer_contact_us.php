@@ -16,7 +16,7 @@
   const MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE = 'Come contattarci';
   const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK = 'Contattaci';
  
-  const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Telephone"></i>';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Telefono"></i>';
   const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw me-1" title="E-mail"></i>';
   
   const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'ID Tassa: %s';

@@ -24,7 +24,7 @@ const TEXT_ORDER_PRODUCTS = 'Prodotti:';
 const TEXT_ORDER_COST = 'Costo ordine:';
 const TEXT_VIEW_ORDER = 'Mostra gli acquisti';
 
-const BUTTON_VIEW_ORDER = '<i title="View this Order" class="fas fa-eye"></i>';
+const BUTTON_VIEW_ORDER = '<i title="Vedi ordine" class="fas fa-eye"></i>';
 
 const TEXT_NO_PURCHASES = 'Nessun acquisto effettuato.';
 
