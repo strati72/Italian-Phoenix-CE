@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TAXES_ZONES = 'Zone Paesi/Provincie';
+  const MODULES_ADMIN_MENU_TAXES_ZONES = 'Zone Stato/Provincie';

@@ -39,4 +39,3 @@ const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
 EOT;
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';
-const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';
