@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Testimonials');
-define('HEADING_TITLE', 'Clienti Testimonials');
-
+  const NAVBAR_TITLE = 'Referenze';
+  const HEADING_TITLE = 'Referenze dei clienti';

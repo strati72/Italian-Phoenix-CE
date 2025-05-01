@@ -9,9 +9,8 @@
 
   Released under the GNU General Public License
 */
+
   const MODULE_CONTENT_TESTIMONIALS_TITLE_TITLE        = 'Intestazione pagina';
   const MODULE_CONTENT_TESTIMONIALS_TITLE_DESCRIPTION  = 'Mostra nell\'intestazione pagina.';
   
   const MODULE_CONTENT_TESTIMONIALS_TITLE_PUBLIC_TITLE = 'Testimonianze';
-
-  

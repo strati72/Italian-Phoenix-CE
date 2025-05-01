@@ -21,5 +21,5 @@
 EOT;
 
   const I_HERO_BUTTONS = <<<EOT
-<a href="%s" class="d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" role="button">Testimonials</a>
+<a href="%s" class="d-inline-flex align-items-center btn btn-primary btn-lg px-4 rounded-pill" role="button">Referenze</a>
 EOT;

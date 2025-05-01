@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_HEADER_MESSAGESTACK_TITLE', 'Gruppo Notifiche di messaggi');
-  define('MODULE_CONTENT_HEADER_MESSAGESTACK_DESCRIPTION', 'Mostra  Gruppo notifiche di messaggi nel tuo sito.');
+  const MODULE_CONTENT_HEADER_MESSAGESTACK_TITLE = 'Gruppo Notifiche di messaggi';
+  const MODULE_CONTENT_HEADER_MESSAGESTACK_DESCRIPTION = 'Mostra  Gruppo notifiche di messaggi nel tuo sito.';
   

@@ -9,10 +9,8 @@
 
   Released under the GNU General Public License
 */
-
-const NAVBAR_TITLE = 'Condizioni di acquisto';
- 
- /*
+/*const NAVBAR_TITLE = 'Condizioni di acquisto';*/
+/*
 Define the Title and Text of this page using the Info Pages Manager.
 Admin > Tools > Info Pages
 */

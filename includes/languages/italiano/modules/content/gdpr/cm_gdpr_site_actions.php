@@ -10,12 +10,12 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_GDPR_SITE_ACTIONS_TITLE = 'Azioni GDPR sul sito';
-  const MODULE_CONTENT_GDPR_SITE_ACTIONS_DESCRIPTION = 'Mostra le azioni dei clienti (registrate da action_recorder) nella pagina GDPR.';
+  const MODULE_CONTENT_GDPR_SITE_ACTIONS_TITLE = 'Interazioni GDPR sul sito';
+  const MODULE_CONTENT_GDPR_SITE_ACTIONS_DESCRIPTION = 'Mostra le interazioni dei clienti (registrate da action_recorder) nella pagina GDPR.';
   
-  const MODULE_CONTENT_GDPR_SITE_ACTIONS_PUBLIC_TITLE = 'Tue Azioni sul sito';
+  const MODULE_CONTENT_GDPR_SITE_ACTIONS_PUBLIC_TITLE = 'Le tue intrazioni sul sito';
   
-  const MODULE_CONTENT_GDPR_SITE_ACTIONS_ACTION = 'Azioni';
+  const MODULE_CONTENT_GDPR_SITE_ACTIONS_ACTION = 'Interazioni';
   const MODULE_CONTENT_GDPR_SITE_ACTIONS_DATE = 'Data';
   
   // potential actions, lower case

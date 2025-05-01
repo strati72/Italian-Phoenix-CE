@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_IN_CATEGORY_DESCRIPTION_TITLE', 'Descrizione della Categoria');
-  define('MODULE_CONTENT_IN_CATEGORY_DESCRIPTION_DESCRIPTION', 'Mostra la Descrizione della Categoria nella pagina iniziale del tuo sito');
+  const MODULE_CONTENT_IN_CATEGORY_DESCRIPTION_TITLE = 'Descrizione della Categoria';
+  const MODULE_CONTENT_IN_CATEGORY_DESCRIPTION_DESCRIPTION = 'Mostra la Descrizione della Categoria nella pagina iniziale del tuo sito';
   

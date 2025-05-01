@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2022 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -16,8 +16,8 @@
   const MODULE_PAYMENT_2CHECKOUT_TEXT_DESCRIPTION = <<<'EOT'
 <div class="alert alert-info">
   Se non hai un conto 2checkout, lo puoi sottoscrivere su <a class="alert-link" href="https://www.2checkout.com/referral?r=ffc78bd5c5" target="_blank" rel="noreferrer">questo indirizzo</a>.
-<hr>
-Usando il link qui sopra per iscriversi a 2Checkout, Phoenix riceve un piccolo bonus finanziario per aver riferito un cliente.
+  <hr>
+  Usando il link qui sopra per iscriversi a 2Checkout, Phoenix riceve un piccolo bonus finanziario per aver riferito un cliente.
 </div>
 
 <h6>Esempio di Carta di Credito</h6>

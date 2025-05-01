@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -24,14 +24,13 @@ const ENTRY_INCLUDE_SUBCATEGORIES = 'Includi Subcategorie';
 const ENTRY_MANUFACTURERS = 'Produttori:';
 const ENTRY_PRICE_FROM = 'Dal prezzo:';
 const ENTRY_PRICE_TO = 'Al prezzo:';
- 
+
 const ENTRY_PRICE_FROM_TEXT = 'Da';
 const ENTRY_PRICE_TO_TEXT = 'A';
 
-const ENTRY_DATE = 'Data';
 const ENTRY_PRICE = 'Prezzo';
 
-const TEXT_SEARCH_HELP_LINK = '<u>Aiuto ricerca</u> [?]';
+const TEXT_SEARCH_HELP_LINK = '<i class="fas fa-info-circle"></i> Aiuto ricerca';
 
 const TEXT_ALL_CATEGORIES = 'Tutte le categorie';
 const TEXT_ALL_MANUFACTURERS = 'Tutti i produttori';
@@ -39,7 +38,8 @@ const TEXT_ALL_MANUFACTURERS = 'Tutti i produttori';
 const HEADING_SEARCH_HELP = 'Aiuto ricerca';
 const TEXT_SEARCH_HELP = <<<'EOT'
 Le parole chiave devono essere separate da AND oppure OR per stabilire un buon controllo dei risultati.<br>
-<br>Per esempio, <u>Microsoft AND mouse</u> genererà risultati che conterranno entrambe le parole. Invece, inserendo <u>mouse OR keyboard</u>, si genererà una lista che contiene prodotti che hanno sia entrambe le parole oppure una delle due..<br>
+<br>
+Per esempio, <u>Microsoft AND mouse</u> genererà risultati che conterranno entrambe le parole. Invece, inserendo <u>mouse OR keyboard</u>, si genererà una lista che contiene prodotti che hanno sia entrambe le parole oppure una delle due..<br>
 <br>
 E\' inoltre possibile visualizzare i risultati esatti comprendendo le parole fra virgolette..<br>
 <br>

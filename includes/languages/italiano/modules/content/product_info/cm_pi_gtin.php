@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_PRODUCT_INFO_GTIN_TITLE', 'GTIN');
-  define('MODULE_CONTENT_PRODUCT_INFO_GTIN_DESCRIPTION', 'Mostra il numero GTIN (UPC, EAN)  nelle informazioni della pagina del prodotto.');
+  const MODULE_CONTENT_PRODUCT_INFO_GTIN_TITLE = 'GTIN';
+  const MODULE_CONTENT_PRODUCT_INFO_GTIN_DESCRIPTION = 'Mostra il numero GTIN (UPC, EAN)  nelle informazioni della pagina del prodotto.';
   
-  define('MODULE_CONTENT_PRODUCT_INFO_GTIN_PUBLIC_TITLE', 'UPC/EAN: <span class="badge badge-primary badge-pill">%s</span>');
+  const MODULE_CONTENT_PRODUCT_INFO_GTIN_PUBLIC_TITLE = 'UPC/EAN:<span class="badge rounded-pill text-bg-primary">%s</span>';

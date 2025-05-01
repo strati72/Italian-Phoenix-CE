@@ -9,9 +9,7 @@
 
   Released under the GNU General Public License
 */
-
-const NAVBAR_TITLE = 'Spedizioni e recesso';
-
+/*const NAVBAR_TITLE = 'Spedizioni e recesso';*/
 /*
 Define the Title and Text of this page using the Info Pages Manager.
 Admin > Tools > Info Pages

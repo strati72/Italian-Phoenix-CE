@@ -2,10 +2,10 @@
 /*
   $Id$
 
- CE Phoenix, E-Commerce made Easy
+  CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 CE Phoenix
+  Copyright (c) 2024 CE Phoenix
 
   Released under the GNU General Public License
 */
@@ -28,7 +28,7 @@ const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const LANGUAGE_CURRENCY = 'EUR';
 
 // Global entries for the <html> tag
-const HTML_PARAMS = 'lang="it" ';
+const HTML_PARAMS = 'lang="it" data-bs-theme="' . BOOTSTRAP_THEME . '"';
 
 // charset for web pages and emails
 const CHARSET = 'utf-8';
@@ -51,33 +51,22 @@ const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Seleziona un tipo di pagamento per il 
 
 const IMAGE_BUTTON_ADD_ADDRESS = 'Aggiungi indirizzo';
 const IMAGE_BUTTON_BACK = 'Indietro';
-const IMAGE_BUTTON_BUY_NOW = 'Compra Subito';
-const IMAGE_BUTTON_CHANGE_ADDRESS = 'Cambia indirizzo';
-const IMAGE_BUTTON_CHECKOUT = 'Concludi al pagamento';
 const IMAGE_BUTTON_CLOSE = 'Chiudi';
-const IMAGE_BUTTON_CONFIRM_ORDER = 'Conferma acquisto';
+const IMAGE_BUTTON_CONTACT_US = 'Contattaci';
 const IMAGE_BUTTON_CONTINUE = 'Continua';
 const IMAGE_BUTTON_DELETE = 'Cancella';
-const IMAGE_BUTTON_LOGIN = 'Accedi';
-const IMAGE_BUTTON_IN_CART = 'Aggiungi al carrello';
 const IMAGE_BUTTON_SEARCH = 'Cerca';
 const IMAGE_BUTTON_UPDATE = 'Aggiorna';
 const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Modifica le Preferenze';
 
 const SMALL_IMAGE_BUTTON_DELETE = 'Cancella';
 const SMALL_IMAGE_BUTTON_EDIT = 'Modifica';
-const SMALL_IMAGE_BUTTON_VIEW = 'Vedi';
-const SMALL_IMAGE_BUTTON_BUY = 'Compra';
-
-const TEXT_CCVAL_ERROR_INVALID_DATE = 'La data di scadenza della carta di credito non è corretta.<br>Controlla la data e riprova.';
-const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Il numero della carta di credito immesso è invalido.<br>Controlla il numero e riprova.';
-const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'I primi quattro numeri digitati sono: %s<br>Se questi numeri sono corretti, noi accettiamo la carta di credito.<br>Se non sono giusti, riprova.';
 
 const TEXT_SEARCH_PLACEHOLDER = 'Cerca';
 
 // message for required inputs
-const FORM_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Informazioni Richieste';
-const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
+const FORM_REQUIRED_INFORMATION = ''; //'<i class="fas fa-asterisk text-danger"></i> Informazioni Richieste';
+const FORM_REQUIRED_INPUT = ''; //'<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 // product notifications
 const PRODUCT_SUBSCRIBED = '%s è stato aggiunto alla tua lista notifiche';
@@ -90,7 +79,7 @@ const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '';
 
 // noscript helper
 const TEXT_NOSCRIPT = <<<'EOT'
-<p><strong>JavaScript seems to be disabled in your browser.</strong></p>
+<p><strong>JavaScript sembra essere stato disabilitato.</strong></p>
 <p>Devi abilitare JavaScript nel tuo  browser per utilizzare tutte le funzionalità di questo sito.<br>
 <a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Clicka qui per le istruzione riguardo l\'abilitazione javascript nel tuo  browser</a>.</p>
 EOT;

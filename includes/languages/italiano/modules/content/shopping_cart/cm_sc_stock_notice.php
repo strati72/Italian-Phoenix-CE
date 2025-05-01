@@ -8,7 +8,7 @@
     Lambros - @Tsimi
     Rainer Schmied - @raiwa
 
-  All rights reserved.﻿﻿
+  All rights reserved.
 
   Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -21,8 +21,15 @@
   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-  define('MODULE_CONTENT_SC_STOCK_NOTICE_TITLE', 'Avviso non disponibile');
-  define('MODULE_CONTENT_SC_STOCK_NOTICE_DESCRIPTION', 'Mostra notifica non disponibile nella pagina del Carrello.');
+const MODULE_CONTENT_SC_STOCK_NOTICE_TITLE = 'Avviso non disponibile';
+const MODULE_CONTENT_SC_STOCK_NOTICE_DESCRIPTION = 'Mostra notifica non disponibile nella pagina del Carrello.';
   
-  define('MODULE_CONTENT_SC_STOCK_NOTICE_CANT_CHECKOUT', '<p class="lead">Prodotto Segnato ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' non è presente nella quantità richiesta.</p><p>Si prega di modificare la quantità  segnata con ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ', Grazie.</p>');
-  define('MODULE_CONTENT_SC_STOCK_NOTICE_CAN_CHECKOUT', '<p class="lead">Prodotto Segnato ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ' non è presente nella quantità richiesta.</p><p>Puoi comunque acquistarli e controllare la quantità che abbiamo in magazzino per la consegna immediata nel processo di checkout.</p>');
+const MODULE_CONTENT_SC_STOCK_NOTICE_CANT_CHECKOUT = '<p><b>Prodotto Segnato <span class="align-middle">' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
+</span> non è presente nella quantità richiesta.</b></p>
+<p>Si prega di modificare la quantità  segnata con 
+EOT
+. STOCK_MARK_PRODUCT_OUT_OF_STOCK . ', Grazie.</p>';
+const MODULE_CONTENT_SC_STOCK_NOTICE_CAN_CHECKOUT = '<p><b>Prodotto Segnato <span class="align-middle">' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
+</span> non è presente nella quantità richiesta.</b></p>
+<p>Puoi comunque acquistarli e ti invieremo immediatamente la quantità disponibile; successivamente, quando tornerà disponibile, invieremo il restante.</p>
+EOT;

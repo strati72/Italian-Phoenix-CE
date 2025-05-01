@@ -17,3 +17,4 @@
     '<i class="fas fa-home"></i><span class="sr-only"> Home</span>' => null,
     'Catalog' => 'index.php',
   ];
+  

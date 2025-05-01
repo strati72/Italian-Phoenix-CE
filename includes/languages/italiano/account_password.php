@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2022 Phoenix Cart - 2025 Sergio Strati
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -19,4 +19,3 @@ const MY_PASSWORD_TITLE = 'Mia Password';
 
 const SUCCESS_PASSWORD_UPDATED = 'La password è stata aggiornata con successo.';
 const ERROR_CURRENT_PASSWORD_NOT_MATCHING = 'La password corrente non corrisponde a quella inserita precedentemente. Riprova.';
-

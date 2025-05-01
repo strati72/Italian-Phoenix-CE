@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE', 'Recupero Password Cliente');
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION', 'Salvare l\'uso di cliente reimpostazione delle password.');
-
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE = 'Recupero Password Cliente';
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION = 'Salvare l\'uso di cliente reimpostazione delle password.';

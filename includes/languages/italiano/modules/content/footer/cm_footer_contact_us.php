@@ -10,13 +10,13 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_TITLE', 'Dettaglio nostri contatti');
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_DESCRIPTION', 'Aggiungi Dettaglio dei nostri contatti nel pie di pagina del sito');
+  const MODULE_CONTENT_FOOTER_CONTACT_US_TITLE = 'Dettaglio nostri contatti';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_DESCRIPTION = 'Aggiungi Dettaglio dei nostri contatti nel pie di pagina del sito';
 
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE', 'Come contattarci');
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK', 'Contattaci');
+  const MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE = 'Come contattarci';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK = 'Contattaci';
  
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_PHONE', '<i class="fas fa-phone fa-fw mr-1" title="Telephone"></i>');
-  define('MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL', '<i class="fas fa-at fa-fw mr-1" title="Email"></i>');
+  const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Telephone"></i>';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw me-1" title="E-mail"></i>';
   
-
+  const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'ID Tassa: %s';

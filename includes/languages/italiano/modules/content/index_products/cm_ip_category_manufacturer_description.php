@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_TITLE', 'Descrizione Categoria/Produttore');
-  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION', 'Mostra la Descrizione Categoria/Produttore al livello prodotti nella pagina index.php');
-  
+  const MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_TITLE = 'Descrizione Categoria/Produttore';
+  const MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION = 'Mostra la Descrizione Categoria/Produttore al livello prodotti nella pagina index.php';  

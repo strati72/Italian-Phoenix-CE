@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_I_MODULAR_TITLE        = '&pi; Modular index';
-  const MODULE_CONTENT_I_MODULAR_DESCRIPTION  = 'Now you can more easily layout your Index Page.<div class="alert alert-warning">This module requires the use of &pi; child modules.  Any slots that have no child modules...will not display!</div>';
+  const MODULE_CONTENT_I_MODULAR_TITLE        = '&pi; Modulo indice';
+  const MODULE_CONTENT_I_MODULAR_DESCRIPTION  = 'Ora puoi impostare più facilmente la tua pagina indprincipaleice.<div class="alert alert-warning">Questo modulo richiede l\'uso di moduli figlio &pi;. Tutti gli slot che non hanno moduli figlio... non verranno visualizzati!</div>';

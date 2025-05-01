@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_NAVBAR_SPECIAL_OFFERS_TITLE', 'Offerte Speciali');
-  define('MODULE_NAVBAR_SPECIAL_OFFERS_DESCRIPTION', 'Mostra le Offerte speciali nella barra di navigazione.');
+  const MODULE_NAVBAR_SPECIAL_OFFERS_TITLE = 'Offerte Speciali';
+  const MODULE_NAVBAR_SPECIAL_OFFERS_DESCRIPTION = 'Mostra le Offerte speciali nella barra di navigazione.';
   
-  define('MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT', '<i title="Special Offers" class="fas fa-fire"></i><span class="d-inline d-sm-none d-md-inline"> Offerte Speciali</span>');
+  const MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT = '<i title="Special Offers" class="fas fa-fire fa-fw fa-xl"></i><span class="d-inline d-sm-none d-md-inline"> Offerte Speciali</span>';
   

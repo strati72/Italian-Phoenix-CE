@@ -22,10 +22,10 @@
 * 
 */
 
-  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_TITLE = 'Stripe SCA Cards Management Page';
-  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_DESCRIPTION = 'Adds a Stripe SCA Cards management page to the My Account area';
+  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_TITLE = 'Pagina di gestione delle carte Stripe SCA';
+  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_DESCRIPTION = 'Aggiunge una pagina di gestione delle carte Stripe SCA all\'area del mio account';
 
-  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_ERROR_MAIN_MODULE = 'This module will not load until the Stripe SCA payment module has been installed, configured, and is enabled. Please install and configure the Stripe SCA payment module.';
+  const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_ERROR_MAIN_MODULE = 'Questo modulo non verrà caricato finché il modulo di pagamento Stripe SCA non sarà installato, configurato e abilitato. Installa e configura il modulo di pagamento Stripe SCA.';
 
   const MODULE_CONTENT_ACCOUNT_STRIPE_SCA_CARDS_LINK_TITLE = 'Carte memorizzate';
 

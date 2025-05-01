@@ -15,4 +15,3 @@ const MODULE_SHIPPING_TABLE_TEXT_DESCRIPTION = 'Tariffa variabile in base al pre
 const MODULE_SHIPPING_TABLE_TEXT_WAY = 'Corriere Espresso Nazionale';
 const MODULE_SHIPPING_TABLE_TEXT_WEIGHT = 'Peso';
 const MODULE_SHIPPING_TABLE_TEXT_AMOUNT = 'Importo';
-

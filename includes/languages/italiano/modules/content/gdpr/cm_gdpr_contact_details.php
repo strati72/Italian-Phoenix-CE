@@ -10,7 +10,6 @@
   Released under the GNU General Public License
 */
 
-
   const MODULE_CONTENT_GDPR_CONTACT_DETAILS_TITLE = 'GDPR Dettaglio Contatti';
   const MODULE_CONTENT_GDPR_CONTACT_DETAILS_DESCRIPTION = 'Mostra i dettagli di contatto dei clienti nella pagina GDPR.';
   

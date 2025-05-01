@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2024 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -44,4 +44,4 @@ const TEXT_SORT_BY = 'Ordina per  ';
 // sitewide product listing
 const LISTING_SORT_DOWN = '%s <i class="fas fa-level-down-alt text-primary"></i>';
 const LISTING_SORT_UP = '%s <i class="fas fa-level-up-alt text-primary"></i>';
-const LISTING_SORT_UNSELECTED = '%s <i class="fas fa-level-up-alt text-black-50"></i>';
+const LISTING_SORT_UNSELECTED = '%s <i class="fas fa-level-up-alt"></i>';

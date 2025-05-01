@@ -20,5 +20,4 @@
     'conditions.php' => 'Termini di acquisto',
     'shipping.php' => 'Spedizioni e resi',
     'contact_us.php' => 'Contatti'
- ];
-
+  ];

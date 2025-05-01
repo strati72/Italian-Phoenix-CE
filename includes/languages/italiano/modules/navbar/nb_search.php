@@ -13,5 +13,5 @@
   const MODULE_NAVBAR_SEARCH_TITLE = 'Ricerca';
   const MODULE_NAVBAR_SEARCH_DESCRIPTION = 'Mostra l\'icona ricerca in Navbar. <div class="alert alert-warning">Fa apparire una finestra Popup  che mostra un campo di ricerca.</div>';
 
-  const MODULE_NAVBAR_SEARCH_PUBLIC_TEXT = '<i title="Ricerca nel sito" class="fas fa-magnifying-glass fa-fw fa-xl"></i><span class="ps-1">Prodotto da cercare</span>';
+  const MODULE_NAVBAR_SEARCH_PUBLIC_TEXT = '<i title="Search our site" class="fas fa-magnifying-glass fa-fw fa-xl"></i><span class="ps-1">Ricerca prodotto</span>';
   

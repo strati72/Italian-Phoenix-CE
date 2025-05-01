@@ -14,5 +14,5 @@
   const MODULE_CONTENT_CARD_PRODUCTS_DESCRIPTION = 'Mostra il modulo Nuovi Prodotti nella pagina iniziale.';
   
   const MODULE_CONTENT_CARD_PRODUCTS_HEADING     = 'Nuovi Prodotti ';
-    const MODULE_CONTENT_CARD_PRODUCTS_VIEW_ALL    = 'Guarda tutti';
+  const MODULE_CONTENT_CARD_PRODUCTS_VIEW_ALL    = 'Guarda tutti';
   

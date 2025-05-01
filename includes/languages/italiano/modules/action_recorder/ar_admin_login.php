@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE', 'Login Strumenti Amministrazione');
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION', 'Storico utilizzo Login Strumenti Amministrazione.');
+  const MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE = 'Login Strumenti Amministrazione';
+  const MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION = 'Storico utilizzo Login Strumenti Amministrazione.';

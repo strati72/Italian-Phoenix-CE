@@ -13,4 +13,3 @@
 const MODULE_SHIPPING_FLAT_TEXT_TITLE = 'Tariffa Fissa';
 const MODULE_SHIPPING_FLAT_TEXT_DESCRIPTION = 'Tariffa Fissa';
 const MODULE_SHIPPING_FLAT_TEXT_WAY = 'Tariffa fissa per Corriere Espresso Nazionale';
-

@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id
+  $Id$
 
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org

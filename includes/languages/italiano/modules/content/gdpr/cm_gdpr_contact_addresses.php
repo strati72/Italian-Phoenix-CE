@@ -11,7 +11,7 @@
 */
 
   const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_TITLE = 'GDPRDettagli Indirizzo';
-  const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_DESCRIPTION = 'Mostra l\'indirizzo del cliente  e gli altri nella pagina della  GDPR .';
+  const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_DESCRIPTION = 'Mostra *altri* indirizzi del cliente nella pagina della GDPR .';
   
   const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_PUBLIC_TITLE = 'Altri indirizzi collegati al tuo account';
   
