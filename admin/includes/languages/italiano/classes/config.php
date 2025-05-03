@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-const CLASS_CONFIG_TEXT_INVALID_ZONE = 'Zona non valida per il paese selezionato';
+const CLASS_CONFIG_TEXT_INVALID_ZONE = 'Zona non valida per la nazione selezionato';
