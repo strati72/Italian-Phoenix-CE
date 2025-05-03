@@ -18,5 +18,5 @@ Per maggiori dettagli su come utilizzare un\'immagine vai a <a target="_blank" r
 EOT;
   
     // if this is blank, brand will default to the main Store Logo
-  const MODULE_NAVBAR_BRAND_PUBLIC_TEXT = STORE_NAME;
+  const MODULE_NAVBAR_BRAND_PUBLIC_TEXT = ''; //STORE_NAME se vuoi far apparire il nome;
   
