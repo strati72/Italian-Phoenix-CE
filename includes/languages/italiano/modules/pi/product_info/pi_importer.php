@@ -11,7 +11,7 @@
 */
 
   const PI_IMPORTER_TITLE         = 'Dettagli importatore';
-  const PI_IMPORTER_DESCRIPTION   = 'Visualizza i dettagli dell\'importatori nella pagina delle informazioni del prodotto.<div class="alert alert-info">Questo è un modulo da usare col sistema &pi;.</div>';
+  const PI_IMPORTER_DESCRIPTION   = 'Visualizza i dettagli dell\'importatori nella pagina delle informazioni del prodotto. <div class="alert alert-info">Questo è un modulo da usare col sistema.</div>';
   
   const PI_IMPORTER_HEADING = 'Dettagli importatore';
   

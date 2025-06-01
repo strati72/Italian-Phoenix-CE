@@ -11,7 +11,7 @@
 */
 
   const PI_OA_TITLE         = 'Opzioni e Attributi';
-  const PI_OA_DESCRIPTION   = 'Mostra le Opzioni Prodotti nella pagina e product_info .<div class="alert alert-info">Questo è un modulo relativo e da utilizzare con il sistema &Pi; .</div>';
+  const PI_OA_DESCRIPTION   = 'Mostra le Opzioni Prodotti nella pagina e product_info. <div class="alert alert-info">Questo è un modulo relativo e da utilizzare con il sistema.</div>';
   
   const PI_OA_HEADING_TITLE = 'Opzioni disponibili';
   

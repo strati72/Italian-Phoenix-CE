@@ -11,7 +11,7 @@
 */
 
   const CU_FORM_TITLE         = 'Modulo';
-  const CU_FORM_DESCRIPTION   = 'Mostra il modulo di contatto sulla pagina.<div class="alert alert-info">Questo è un modulo da usare col sistema &pi;.</div>';
+  const CU_FORM_DESCRIPTION   = 'Mostra il modulo di contatto sulla pagina. <div class="alert alert-info">Questo è un modulo da usare col sistema.</div>';
   
   const FORM_CONTACT_US = '';
   

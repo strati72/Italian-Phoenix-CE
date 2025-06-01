@@ -11,4 +11,4 @@
 */
 
   const I_ADVERTS_TITLE        = 'Pubblicitari';
-  const I_ADVERTS_DESCRIPTION  = 'Annunci affiancati.<div class="alert alert-danger mt-2">Il contenuto degli annunci si trovano in: Strumenti > Gestore pubblicità.</div><div class="alert alert-info">Questo è un modulo da usare col sistema &pi;, che è presente nel Gestore pubblicità.</div>';
+  const I_ADVERTS_DESCRIPTION  = 'Annunci affiancati.<div class="alert alert-danger mt-2">Il contenuto degli annunci si trovano in: Strumenti > Gestore pubblicità.</div><div class="alert alert-info">Questo è un modulo da usare col sistema, che è presente nel Gestore pubblicità.</div>';

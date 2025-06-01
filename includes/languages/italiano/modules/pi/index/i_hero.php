@@ -11,7 +11,7 @@
 */
 
   const I_HERO_TITLE       = 'Campo Eroe';
-  const I_HERO_DESCRIPTION = 'Visualizza il campo Eroe.<div class="alert alert-info">Questo è un modulo da usare col sistema &pi;.</div>';
+  const I_HERO_DESCRIPTION = 'Visualizza il campo Eroe. <div class="alert alert-info">Questo è un modulo da usare col sistema.</div>';
 
   const I_HERO_TEXT = <<<EOT
 <h1 class="text-body-emphasis">#yourphoenix #yourcommunity</h1>

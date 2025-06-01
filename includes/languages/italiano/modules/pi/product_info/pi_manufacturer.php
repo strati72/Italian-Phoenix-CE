@@ -11,6 +11,6 @@
 */
 
   const PI_MANUFACTURER_TITLE         = 'Dettagli produttore';
-  const PI_MANUFACTURER_DESCRIPTION   = 'Visualizza i dettagli del produttore nella pagina delle informazioni del prodotto.<div class="alert alert-info">Questo è un modulo da usare col sistema &pi;.</div>';
+  const PI_MANUFACTURER_DESCRIPTION   = 'Visualizza i dettagli del produttore nella pagina delle informazioni del prodotto. <div class="alert alert-info">Questo è un modulo da usare col sistema.</div>';
   
   const PI_MANUFACTURER_HEADING = 'Dettagli produttore';

@@ -11,6 +11,6 @@
 */
 
   const CU_TEXT_TITLE         = 'Campo';
-  const CU_TEXT_DESCRIPTION   = 'Mostra il campo di testo sulla pagina Contattaci.<div class="alert alert-info">Questo è un modulo da usare col sistema &pi;.</div>';
+  const CU_TEXT_DESCRIPTION   = 'Mostra il campo di testo sulla pagina Contattaci. <div class="alert alert-info">Questo è un modulo da usare col sistema.</div>';
 
   const CU_TEXT_PUBLIC_TEXT   = 'Ciao mondo';
