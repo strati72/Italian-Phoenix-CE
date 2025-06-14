@@ -22,7 +22,7 @@
 */
 
   const MODULE_CONTENT_SC_CHECKOUT_TITLE = 'Vai alla cassa';
-  const MODULE_CONTENT_SC_CHECKOUT_DESCRIPTION = 'Mostra il bottone Vai alla cassa nella pagina carrello';
+  const MODULE_CONTENT_SC_CHECKOUT_DESCRIPTION = 'Mostra il pulsante Vai alla cassa nella pagina carrello';
   
   const MODULE_CONTENT_SC_CHECKOUT_BUTTON_CHECKOUT = 'Vai alla cassa';
   const MODULE_CONTENT_SC_CHECKOUT_ALTERNATIVE_CHECKOUT_METHODS = '- O -';

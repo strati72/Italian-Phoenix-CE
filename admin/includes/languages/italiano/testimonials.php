@@ -12,7 +12,7 @@
 
 const HEADING_TITLE = 'Referenze';
 
-const TABLE_HEADING_CUSTOMER_ID = 'ID Cliente';
+const TABLE_HEADING_CUSTOMER_ID = 'Codice Cliente';
 const TABLE_HEADING_CUSTOMER_NAME = 'Nome Cliente';
 const TABLE_HEADING_DATE_ADDED = 'Data Inserimento';
 const TABLE_HEADING_ACTION = 'Azione';

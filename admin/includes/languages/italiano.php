@@ -123,7 +123,7 @@ const WARNING_NO_FILE_UPLOADED = 'Attenzione: Nessuno file caricato.';
 // bootstrap helper
 const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = <<<'EOT'
 <p>I contenuti in orizzontale possono essere 12 o meno per riga.</p>
-<p>12/12 = 100% width, 6/12 = 50% width, 4/12 = 33% width.</p>
+<p>12/12 = 100% larghezza, 6/12 = 50% larghezza, 4/12 = 33% larghezza.</p>
 <p>Il totale delle colonne in ogni riga deve essere uguale a  12 (esempi:  3 sezioni di 4 colonne ciascuno, 1 elemento di 12 colonne e così via).</p>
 EOT;
 

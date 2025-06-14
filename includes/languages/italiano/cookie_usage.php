@@ -13,4 +13,4 @@
 /*
 Define this page using the Info Pages Manager.
 Admin > Tools > Info Pages
-*
+*/

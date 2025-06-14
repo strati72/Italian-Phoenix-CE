@@ -14,11 +14,11 @@ const HEADING_TITLE = 'Totale ordini cliente migliori';
 
 const TABLE_HEADING_NUMBER = '#';
 const TABLE_HEADING_CUSTOMERS = 'Clienti';
-const TABLE_HEADING_CUSTOMERS_ID = 'ID';
+const TABLE_HEADING_CUSTOMERS_ID = 'Codice';
 const TABLE_HEADING_TOTAL_PURCHASED = 'Valore acquistato dei prodotti';
 
 const TABLE_HEADING_ACTION = 'Interazioni';
 
-const CSV_HEADERS = ['Customer ID', 'Order Number', 'Date Purchased', 'Full Order Value', 'Status'];
+const CSV_HEADERS = ['Codice cliente', 'Numero ordine', 'Data d\'acquisto', 'Valore totale', 'Stato'];
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customer_Orders-Total';

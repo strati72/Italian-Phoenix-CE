@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_CS_CONTINUE_BUTTON_TITLE = 'Bottone continua gli acquisti';
-  const MODULE_CONTENT_CS_CONTINUE_BUTTON_DESCRIPTION = 'Mostra il Bottone continua gli acquisti.';
+  const MODULE_CONTENT_CS_CONTINUE_BUTTON_TITLE = 'Pulsante continua gli acquisti';
+  const MODULE_CONTENT_CS_CONTINUE_BUTTON_DESCRIPTION = 'Mostra il pulsante continua gli acquisti.';
   
   const MODULE_CONTENT_CS_CONTINUE_BUTTON_TEXT = 'Il tuo ordine è stato elaborato, continua gli acquisti';

@@ -19,4 +19,4 @@
   const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Telefono"></i>';
   const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw me-1" title="E-mail"></i>';
   
-  const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'ID Tassa: %s';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'Codice Tassa: %s';

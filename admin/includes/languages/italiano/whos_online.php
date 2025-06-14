@@ -13,7 +13,7 @@
 const HEADING_TITLE = "Chi c\'&egrave; On-line";
 
 const TABLE_HEADING_ONLINE = 'Online';
-const TABLE_HEADING_CUSTOMER_ID = 'ID';
+const TABLE_HEADING_CUSTOMER_ID = 'Codice Cliente';
 const TABLE_HEADING_FULL_NAME = 'Nome completo';
 const TABLE_HEADING_IP_ADDRESS = 'Indirizzo IP';
 const TABLE_HEADING_ENTRY_TIME = 'Ora di ingresso';
