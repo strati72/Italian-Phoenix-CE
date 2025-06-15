@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TOOLS_SERVER_INFO = 'Server Info';
+  const MODULES_ADMIN_MENU_TOOLS_SERVER_INFO = 'Info. Server';

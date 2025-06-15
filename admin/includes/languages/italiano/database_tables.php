@@ -13,10 +13,10 @@
 const HEADING_TITLE = 'Tabelle di database';
 
 const TABLE_HEADING_TABLE = 'Tabella';
-const TABLE_HEADING_ROWS = 'Riga';
+const TABLE_HEADING_ROWS = 'Righe';
 const TABLE_HEADING_SIZE = 'Dimensione';
-const TABLE_HEADING_ENGINE = 'Engine';
-const TABLE_HEADING_COLLATION = 'Fascicolazione';
+const TABLE_HEADING_ENGINE = 'Motore DB';
+const TABLE_HEADING_COLLATION = 'Collazione';
 const TABLE_HEADING_MSG_TYPE = 'Tipo di messaggio';
 const TABLE_HEADING_MSG = 'Messaggio';
 const TABLE_HEADING_QUERIES = 'Queries';

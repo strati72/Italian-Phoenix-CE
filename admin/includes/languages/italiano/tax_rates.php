@@ -10,19 +10,19 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE= 'Aliquota Fiscale';
+const HEADING_TITLE= 'Zona Aliquota Fiscale';
 
 const TABLE_HEADING_TAX_RATE_PRIORITY = 'Priorità';
-const TABLE_HEADING_TAX_CLASS_TITLE =  'Tipologia di Tassa';
+const TABLE_HEADING_TAX_CLASS_TITLE =  'Tipo di Tassa';
 const TABLE_HEADING_COUNTRIES_NAME = 'Nazione';
 const TABLE_HEADING_ZONE = 'Zona';
-const TABLE_HEADING_TAX_RATE = 'Aliquota Fiscale';
+const TABLE_HEADING_TAX_RATE = 'Aliquota Fiscale per Zona';
 const TABLE_HEADING_ACTION = 'Azione';
 
 const TEXT_INFO_EDIT_INTRO = 'Effettua i cambiamenti necessari';
 const TEXT_INFO_DATE_ADDED = 'Data inserimento:';
 const TEXT_INFO_LAST_MODIFIED =  'Ultima modifica:';
-const TEXT_INFO_CLASS_TITLE = 'Titolo per la Tassa:';
+const TEXT_INFO_CLASS_TITLE = 'Tipo di Tassa:';
 const TEXT_INFO_COUNTRY_NAME =  'Nazione:';
 const TEXT_INFO_ZONE_NAME = 'Zona:';
 const TEXT_INFO_TAX_RATE =  'Aliquota fiscale (%):';

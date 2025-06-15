@@ -13,7 +13,7 @@
 const HEADING_TITLE = 'Gestione Newsletter';
 
 const TABLE_HEADING_NEWSLETTERS = 'Newsletters';
-const TABLE_HEADING_DATE_ADDED = 'Data inserita';
+const TABLE_HEADING_DATE_ADDED = 'Data inserimento';
 const TABLE_HEADING_SIZE = 'Dimensione';
 const TABLE_HEADING_MODULE = 'Tipo';
 const TABLE_HEADING_SENT = 'Spedita';

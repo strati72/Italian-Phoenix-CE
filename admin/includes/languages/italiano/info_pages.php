@@ -12,7 +12,7 @@
 
 const HEADING_TITLE = 'Gestione Pagine';
 
-const TABLE_HEADING_PAGE_ID = 'ID';
+const TABLE_HEADING_PAGE_ID = 'Indice';
 const TABLE_HEADING_PAGE_TITLE = 'Titolo Pagina';
 const TABLE_HEADING_SLUG = 'Url Pagina';
 const TABLE_HEADING_DATE_ADDED = 'Data inserimento';
