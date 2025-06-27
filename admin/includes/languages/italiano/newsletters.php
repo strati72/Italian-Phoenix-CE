@@ -29,7 +29,7 @@ const TEXT_NEWSLETTER_DATE_SENT = 'Data di spedizione: %s';
 
 const TEXT_INFO_DELETE_INTRO = 'Sicuro di voler cancellare questa Newsletter?';
 
-const TEXT_PLEASE_WAIT = 'Prego attendere .. e-mails in spedizione ..<br><br>Non interrompere il processo!';
+const TEXT_PLEASE_WAIT = 'Prego attendere... e-mails in spedizione... <br><br>Non interrompere il processo!';
 const TEXT_FINISHED_SENDING_EMAILS = 'E-mails spedite!';
 
 const ERROR_NEWSLETTER_TITLE = '<strong>Errore:</strong> Titolo Newsletter necessario';

@@ -34,10 +34,10 @@ const HTPASSWD_INFO = <<<'EOT'
 <p>Impostando il livello di sicurezza htaccess/htpasswd verra\' automaticamente memorizzato il nome e la password dell\amministratore in un file htpasswd quando aggiornerai il record password dell\'amministratore.</p>
 <p><strong>P.S.:</strong>Se questo livello di sicurezza :&egrave; abilitato e non  puoi accedere al pannello Amministratore, 
 effettua i seguenti cambiamenti e contatta il tuo hosting provider per abilitare la protezione htaccess/htpasswd:</p>
-<p><u><strong>1. Edita questo file:</strong></u><br /><br />%s</p>
+<p><u><strong>1. Edita questo file:</strong></u><br><br>%s</p>
 <p>Se sono presenti, rimuovi le seguenti linee di codice:</p>
 <p><i>%s</i></p>
-<p><u><strong>2. Cancella questo file:</strong></u><br /><br />%s</p>
+<p><u><strong>2. Cancella questo file:</strong></u><br><br>%s</p>
 EOT;
 const HTPASSWD_SECURED = <<<'EOT'
 <strong>Protezione aggiuntiva con htaccess/htpasswd</strong>

@@ -18,7 +18,7 @@
 
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_TITLE = 'Paypal Standard';
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_PUBLIC_TITLE = 'Paypal';
-const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_DESCRIPTION = '<div class="alert alert-warning text-break">Abilita l\'Auto Return nelle impostazioni del servere configura l\'URL come:<br/>%s<br><br>Abilita PDT e copia il token nel modulo.<br><br>Abilita le notifiche istantanee e l\'URL per le notifiche a:<br/>%s</div><i class="fas fa-external-link-alt me-2"></i><a href="https://www.paypal.com" target="_blank" rel="noopener">Paypal Website</a>';
+const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_DESCRIPTION = '<div class="alert alert-warning text-break">Abilita l\'Auto Return nelle impostazioni del servere configura l\'URL come:<br>%s<br><br>Abilita PDT e copia il token nel modulo.<br><br>Abilita le notifiche istantanee e l\'URL per le notifiche a:<br>%s</div><i class="fas fa-external-link-alt me-2"></i><a href="https://www.paypal.com" target="_blank" rel="noopener">Paypal Website</a>';
 
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_RETURN_BUTTON = 'Ritorna ' . STORE_NAME; // max length 60 chars
 
