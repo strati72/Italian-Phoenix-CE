@@ -16,5 +16,4 @@ Fai il Login nella sezione Admin
 -   Clicca on Save
 
 Per San Marino ci sono solo le zone.
-Per L'Italia ho inseirto anche le aliquote fiscali
-
+Per L'Italia e Svizzera ho inseirto anche le aliquote fiscali
